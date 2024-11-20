@@ -1,0 +1,7 @@
+url1=https://lipsumhub.com/
+url2=https://lipsumhub.com/
+url3=https://lipsumhub.com/privacy-policy
+url4=https://lipsumhub.com/sitemap.xml
+url5=https://blog.lipsumhub.com/
+url6=https://riseuplabs.com/
+url7=https://admagic.riseuplabs.com/redirect/link/34

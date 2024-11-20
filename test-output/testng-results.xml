@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="44" passed="44" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-14T14:26:52 BDT" name="LipsumHub Automation" finished-at="2024-07-14T14:40:15 BDT" duration-ms="803594">
+    <groups>
+    </groups>
+    <test started-at="2024-07-14T14:26:52 BDT" name="Test" finished-at="2024-07-14T14:40:15 BDT" duration-ms="803594">
+      <class name="qa.testcases.VehicleCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:37:21 BDT" name="setup" finished-at="2024-07-14T14:37:23 BDT" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MotorcyclesCategoryTest()[pri:1, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:37:23 BDT" name="MotorcyclesCategoryTest" finished-at="2024-07-14T14:37:50 BDT" duration-ms="26342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MotorcyclesCategoryTest -->
+        <test-method signature="TrucksCategoryTest()[pri:2, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:37:50 BDT" name="TrucksCategoryTest" finished-at="2024-07-14T14:38:11 BDT" duration-ms="21611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrucksCategoryTest -->
+        <test-method signature="BicyclesCategoryTest()[pri:3, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:38:11 BDT" name="BicyclesCategoryTest" finished-at="2024-07-14T14:38:30 BDT" duration-ms="18620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BicyclesCategoryTest -->
+        <test-method signature="PublicTransportationCategoryTest()[pri:4, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:38:30 BDT" name="PublicTransportationCategoryTest" finished-at="2024-07-14T14:38:39 BDT" duration-ms="9260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PublicTransportationCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.VehicleCategoryTest@6ad82709]" started-at="2024-07-14T14:38:39 BDT" name="tearDown" finished-at="2024-07-14T14:38:39 BDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.VehicleCategoryTest -->
+      <class name="qa.testcases.TechnologyCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:33:54 BDT" name="setup" finished-at="2024-07-14T14:33:56 BDT" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HardwareCategoryTest()[pri:1, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:33:56 BDT" name="HardwareCategoryTest" finished-at="2024-07-14T14:34:19 BDT" duration-ms="22697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HardwareCategoryTest -->
+        <test-method signature="SoftwareCategoryTest()[pri:2, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:34:19 BDT" name="SoftwareCategoryTest" finished-at="2024-07-14T14:34:41 BDT" duration-ms="21604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoftwareCategoryTest -->
+        <test-method signature="InternetandNetworkingCategoryTest()[pri:3, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:34:41 BDT" name="InternetandNetworkingCategoryTest" finished-at="2024-07-14T14:35:02 BDT" duration-ms="21624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InternetandNetworkingCategoryTest -->
+        <test-method signature="EmergingTechnologiesCategoryTest()[pri:4, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:35:02 BDT" name="EmergingTechnologiesCategoryTest" finished-at="2024-07-14T14:35:24 BDT" duration-ms="21615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmergingTechnologiesCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.TechnologyCategoryTest@65e98b1c]" started-at="2024-07-14T14:35:24 BDT" name="tearDown" finished-at="2024-07-14T14:35:24 BDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.TechnologyCategoryTest -->
+      <class name="qa.testcases.AllUrlWithStatusCodeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:39:15 BDT" name="setup" finished-at="2024-07-14T14:39:17 BDT" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="totalLinkTest()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:39:17 BDT" name="totalLinkTest" finished-at="2024-07-14T14:39:28 BDT" duration-ms="10878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalLinkTest -->
+        <test-method signature="searchUrls()[pri:1, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:39:28 BDT" name="searchUrls" finished-at="2024-07-14T14:39:42 BDT" duration-ms="14489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUrls -->
+        <test-method signature="testUrlResponseCodes()[pri:2, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:39:42 BDT" name="testUrlResponseCodes" finished-at="2024-07-14T14:40:15 BDT" duration-ms="32476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUrlResponseCodes -->
+        <test-method signature="removeDuplicateResponseCodes()[pri:3, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:40:15 BDT" name="removeDuplicateResponseCodes" finished-at="2024-07-14T14:40:15 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeDuplicateResponseCodes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.AllUrlWithStatusCodeTest@7817fd62]" started-at="2024-07-14T14:40:15 BDT" name="tearDown" finished-at="2024-07-14T14:40:15 BDT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.AllUrlWithStatusCodeTest -->
+      <class name="qa.testcases.LanguageWithUrlTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:26:52 BDT" name="setup" finished-at="2024-07-14T14:26:55 BDT" duration-ms="3556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FrançaisLang_Test()[pri:1, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:26:55 BDT" name="FrançaisLang_Test" finished-at="2024-07-14T14:27:01 BDT" duration-ms="5597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FrançaisLang_Test -->
+        <test-method signature="EspañolLang_Test()[pri:2, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:01 BDT" name="EspañolLang_Test" finished-at="2024-07-14T14:27:05 BDT" duration-ms="4358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EspañolLang_Test -->
+        <test-method signature="italianoLang_Test()[pri:3, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:05 BDT" name="italianoLang_Test" finished-at="2024-07-14T14:27:10 BDT" duration-ms="5018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- italianoLang_Test -->
+        <test-method signature="kРусскийLang_Test()[pri:4, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:10 BDT" name="kРусскийLang_Test" finished-at="2024-07-14T14:27:15 BDT" duration-ms="4354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kРусскийLang_Test -->
+        <test-method signature="हिंदीLang_Test()[pri:5, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:15 BDT" name="हिंदीLang_Test" finished-at="2024-07-14T14:27:20 BDT" duration-ms="4801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- हिंदीLang_Test -->
+        <test-method signature="IndonesiaLang_Test()[pri:6, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:20 BDT" name="IndonesiaLang_Test" finished-at="2024-07-14T14:27:25 BDT" duration-ms="5047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndonesiaLang_Test -->
+        <test-method signature="jaLang_Test()[pri:7, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:25 BDT" name="jaLang_Test" finished-at="2024-07-14T14:27:30 BDT" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jaLang_Test -->
+        <test-method signature="FilipinoLang_Test()[pri:8, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:30 BDT" name="FilipinoLang_Test" finished-at="2024-07-14T14:27:34 BDT" duration-ms="4850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilipinoLang_Test -->
+        <test-method signature="普通话Lang_Test()[pri:9, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:34 BDT" name="普通话Lang_Test" finished-at="2024-07-14T14:27:39 BDT" duration-ms="4339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 普通话Lang_Test -->
+        <test-method signature="EnglishLang_Test()[pri:10, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:39 BDT" name="EnglishLang_Test" finished-at="2024-07-14T14:27:43 BDT" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnglishLang_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.LanguageWithUrlTest@5dda768f]" started-at="2024-07-14T14:27:43 BDT" name="tearDown" finished-at="2024-07-14T14:27:43 BDT" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.LanguageWithUrlTest -->
+      <class name="qa.testcases.SportsCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:29:59 BDT" name="setup" finished-at="2024-07-14T14:30:01 BDT" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TeamSportsCategoryTest()[pri:1, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:30:01 BDT" name="TeamSportsCategoryTest" finished-at="2024-07-14T14:30:36 BDT" duration-ms="35137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamSportsCategoryTest -->
+        <test-method signature="IndividualSportsCategoryTest()[pri:2, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:30:36 BDT" name="IndividualSportsCategoryTest" finished-at="2024-07-14T14:31:10 BDT" duration-ms="33983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndividualSportsCategoryTest -->
+        <test-method signature="CombatSportsCategoryTest()[pri:3, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:31:10 BDT" name="CombatSportsCategoryTest" finished-at="2024-07-14T14:31:36 BDT" duration-ms="25727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CombatSportsCategoryTest -->
+        <test-method signature="ExtremeSportsCategoryTest()[pri:4, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:31:36 BDT" name="ExtremeSportsCategoryTest" finished-at="2024-07-14T14:32:10 BDT" duration-ms="33959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtremeSportsCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SportsCategoryTest@710f4dc7]" started-at="2024-07-14T14:32:10 BDT" name="tearDown" finished-at="2024-07-14T14:32:10 BDT" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.SportsCategoryTest -->
+      <class name="qa.testcases.NatureCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:35:24 BDT" name="setup" finished-at="2024-07-14T14:35:26 BDT" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EcosystemsCategoryTest()[pri:1, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:35:26 BDT" name="EcosystemsCategoryTest" finished-at="2024-07-14T14:35:40 BDT" duration-ms="13943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EcosystemsCategoryTest -->
+        <test-method signature="FloraandFaunaCategoryTest()[pri:2, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:35:40 BDT" name="FloraandFaunaCategoryTest" finished-at="2024-07-14T14:35:53 BDT" duration-ms="13357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FloraandFaunaCategoryTest -->
+        <test-method signature="LandscapesCategoryTest()[pri:3, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:35:53 BDT" name="LandscapesCategoryTest" finished-at="2024-07-14T14:36:29 BDT" duration-ms="35493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandscapesCategoryTest -->
+        <test-method signature="BiodiversityCategoryTest()[pri:4, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:36:29 BDT" name="BiodiversityCategoryTest" finished-at="2024-07-14T14:36:46 BDT" duration-ms="17440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BiodiversityCategoryTest -->
+        <test-method signature="NaturalWondersCategoryTest()[pri:5, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:36:46 BDT" name="NaturalWondersCategoryTest" finished-at="2024-07-14T14:37:04 BDT" duration-ms="17495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaturalWondersCategoryTest -->
+        <test-method signature="WildlifePhotographyCategoryTest()[pri:6, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:37:04 BDT" name="WildlifePhotographyCategoryTest" finished-at="2024-07-14T14:37:21 BDT" duration-ms="17482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WildlifePhotographyCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.NatureCategoryTest@61322f9d]" started-at="2024-07-14T14:37:21 BDT" name="tearDown" finished-at="2024-07-14T14:37:21 BDT" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.NatureCategoryTest -->
+      <class name="qa.testcases.EntertainmentCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:32:10 BDT" name="setup" finished-at="2024-07-14T14:32:12 BDT" duration-ms="1974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MoviesCategoryTest()[pri:1, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:32:12 BDT" name="MoviesCategoryTest" finished-at="2024-07-14T14:32:38 BDT" duration-ms="26376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoviesCategoryTest -->
+        <test-method signature="TelevisionCategoryTest()[pri:2, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:32:38 BDT" name="TelevisionCategoryTest" finished-at="2024-07-14T14:33:04 BDT" duration-ms="25717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TelevisionCategoryTest -->
+        <test-method signature="MusicCategoryTest()[pri:3, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:33:04 BDT" name="MusicCategoryTest" finished-at="2024-07-14T14:33:30 BDT" duration-ms="25728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MusicCategoryTest -->
+        <test-method signature="GamingCategoryTest()[pri:4, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:33:30 BDT" name="GamingCategoryTest" finished-at="2024-07-14T14:33:54 BDT" duration-ms="24718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GamingCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.EntertainmentCategoryTest@1ff4931d]" started-at="2024-07-14T14:33:54 BDT" name="tearDown" finished-at="2024-07-14T14:33:54 BDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.EntertainmentCategoryTest -->
+      <class name="qa.testcases.FoodCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:27:43 BDT" name="setup" finished-at="2024-07-14T14:27:46 BDT" duration-ms="2555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CuisinesFoodCategoryTest()[pri:1, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:27:46 BDT" name="CuisinesFoodCategoryTest" finished-at="2024-07-14T14:28:17 BDT" duration-ms="30991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CuisinesFoodCategoryTest -->
+        <test-method signature="DietFoodCategoryTest()[pri:2, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:28:17 BDT" name="DietFoodCategoryTest" finished-at="2024-07-14T14:28:43 BDT" duration-ms="25785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DietFoodCategoryTest -->
+        <test-method signature="CookingMethodsFoodCategoryTest()[pri:3, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:28:43 BDT" name="CookingMethodsFoodCategoryTest" finished-at="2024-07-14T14:29:08 BDT" duration-ms="25778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookingMethodsFoodCategoryTest -->
+        <test-method signature="MealsFoodCategoryTest()[pri:4, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:29:08 BDT" name="MealsFoodCategoryTest" finished-at="2024-07-14T14:29:33 BDT" duration-ms="24709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MealsFoodCategoryTest -->
+        <test-method signature="IngredientFocusFoodCategoryTest()[pri:5, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:29:33 BDT" name="IngredientFocusFoodCategoryTest" finished-at="2024-07-14T14:29:59 BDT" duration-ms="25756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IngredientFocusFoodCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.FoodCategoryTest@2925bf5b]" started-at="2024-07-14T14:29:59 BDT" name="tearDown" finished-at="2024-07-14T14:29:59 BDT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.FoodCategoryTest -->
+      <class name="qa.testcases.GeneralCategoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.GeneralCategoryTest@510f3d34]" started-at="2024-07-14T14:38:39 BDT" name="setup" finished-at="2024-07-14T14:38:41 BDT" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ParagraphCategoryTest()[pri:1, instance:qa.testcases.GeneralCategoryTest@510f3d34]" started-at="2024-07-14T14:38:41 BDT" name="ParagraphCategoryTest" finished-at="2024-07-14T14:38:52 BDT" duration-ms="11275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParagraphCategoryTest -->
+        <test-method signature="WordCategoryTest()[pri:2, instance:qa.testcases.GeneralCategoryTest@510f3d34]" started-at="2024-07-14T14:38:52 BDT" name="WordCategoryTest" finished-at="2024-07-14T14:39:04 BDT" duration-ms="11305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WordCategoryTest -->
+        <test-method signature="ListCategoryTest()[pri:3, instance:qa.testcases.GeneralCategoryTest@510f3d34]" started-at="2024-07-14T14:39:04 BDT" name="ListCategoryTest" finished-at="2024-07-14T14:39:15 BDT" duration-ms="11293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListCategoryTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.GeneralCategoryTest@510f3d34]" started-at="2024-07-14T14:39:15 BDT" name="tearDown" finished-at="2024-07-14T14:39:15 BDT" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.GeneralCategoryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- LipsumHub Automation -->
+</testng-results>
